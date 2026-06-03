@@ -1,16 +1,8 @@
-# Python Learning Journey
-
-Hi, I'm Prathamesh.
-
-This repository contains the Python exercises and projects I create while learning Python.
-
 ## Exercises Completed
 
 1. Arithmetic Operations
-
-## Goals
-
-- Learn Python
-- Build Projects
-- Improve Problem Solving
-- Prepare for Internships and Placements
+2. Calculator
+3. Square and Cube Calculator
+4. Average Calculator
+5. Age Predictor
+6. Typecasting Example
