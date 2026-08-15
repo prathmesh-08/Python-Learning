@@ -1,0 +1,12 @@
+a= "*** Pratham is studing******"
+print(len(a))
+print(a.upper())
+print(a.lower())
+print(a.rstrip("*"))
+print(a.replace("Pratham","Om"))
+print(a.split(" "))
+print(a.count("a"))
+print(a.endswith("*"))
+print(a.find("is"))
+print(a.islower())
+print(a.isprintable())
