@@ -14,7 +14,15 @@
 #Negative Slicing
 # namesort=name[-4:-1]
 # namesort=name[1:4]
-# print(namesort)
-word = "amazing"
-word[1:6:2]
-print(word)
+# # print(namesort)
+# word = "amazing"
+# word[1:6:2]
+# print(word)
+
+name = "prathamesh"
+print(name.capitalize()) #first word capital
+print(name.upper()) #full word in upper form
+
+string = "Pratham is writing"
+replace = string.replace("writing","studing")
+print(replace)
