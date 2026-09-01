@@ -1,0 +1,16 @@
+#TO PRINT UNIQUE NUMBER SET BY Taking INPUT
+s=set()
+n = input("Enter a number : ")
+s.add(int(n))
+n = input("Enter a number : ")
+s.add(int(n))
+n = input("Enter a number : ")
+s.add(int(n))
+n = input("Enter a number : ")
+s.add(int(n))
+n = input("Enter a number : ")
+s.add(int(n))
+n = input("Enter a number : ")
+s.add(int(n))
+
+print(s)
